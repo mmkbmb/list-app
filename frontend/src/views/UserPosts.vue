@@ -2,7 +2,7 @@
 <div>
     <div v-for="p in filteredPosts" v-bind:key="p.id">
         <div>
-            ID: {{ p.id }}、タイトル: {{ p.title }}
+            ID: {{ p.id }}、タイトル : {{ p.title }}
         </div>
     </div>
     <div>
