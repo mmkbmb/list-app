@@ -397,8 +397,8 @@ textarea{
   height: 40px;
   border-radius: 14px;
   padding: 0 30px;
-  padding-top: 1.3rem;
-  padding-bottom: 1.3rem;
+  /* padding-top: 1.3rem; */
+  /* padding-bottom: 1.3rem; */
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 30px;
